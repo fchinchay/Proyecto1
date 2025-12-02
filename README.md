@@ -1,4 +1,4 @@
 # Proyecto1
-Aquí hay cosas buenas e interesante
+Aquí hay cosas buenas, interesante y tecnologicas
 
 Este es un proyecto de prueba
