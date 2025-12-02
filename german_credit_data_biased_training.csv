@@ -53,7 +53,7 @@ no_checking,38,outstanding_credit,other,6086,unknown,greater_7,4,female,co-appli
 no_checking,26,prior_payments_delayed,radio_tv,6402,100_to_500,4_to_7,4,female,none,4,unknown,52,none,free,2,skilled,1,yes,yes,No Risk
 no_checking,8,no_credits,car_new,250,less_100,1_to_4,3,female,none,3,real_estate,46,none,own,2,management_self-employed,2,none,yes,No Risk
 no_checking,30,outstanding_credit,appliances,7650,500_to_1000,1_to_4,4,female,none,4,unknown,59,none,free,2,management_self-employed,2,yes,yes,Risk
-no_checking,28,outstanding_credit,appliances,5990,500_to_1000,greater_7,5,male,co-applicant,3,car_other,55,none,free,2,skilled,2,yes,yes,Risk
+no_checking,28,outstanding_credit,appliances,5990,500_to_1000,greater_7,5,male,co-applicant,3,car_other,55,none,free,2,skilled,2,yes,No,Risk
 greater_200,22,all_credits_paid_back,car_used,3376,less_100,less_1,3,female,none,2,car_other,32,none,own,1,skilled,1,none,yes,No Risk
 no_checking,39,credits_paid_to_date,vacation,6434,unknown,greater_7,5,female,none,4,car_other,39,none,own,2,skilled,2,yes,yes,Risk
 0_to_200,20,credits_paid_to_date,furniture,2442,less_100,unemployed,3,female,none,1,real_estate,42,none,own,1,skilled,1,none,yes,No Risk
